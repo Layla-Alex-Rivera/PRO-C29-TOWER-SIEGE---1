@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../PluckingMango-Template-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tower-Siege1-Template-main"
+	}
+}
